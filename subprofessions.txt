@@ -1,0 +1,1 @@
+{"Kul Tiran Blacksmithing / Zandalari Blacksmithing": 2437, "Legion Blacksmithing": 2454, "Draenor Blacksmithing": 2472, "Pandaria Blacksmithing": 2473, "Cataclysm Blacksmithing": 2474, "Northrend Blacksmithing": 2475, "Outland Blacksmithing": 2476, "Blacksmithing": 2477, "Shadowlands Blacksmithing": 2751}

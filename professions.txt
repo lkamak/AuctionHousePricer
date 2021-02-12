@@ -1,0 +1,1 @@
+{"Blacksmithing": 164, "Leatherworking": 165, "Alchemy": 171, "Herbalism": 182, "Cooking": 185, "Mining": 186, "Tailoring": 197, "Engineering": 202, "Enchanting": 333, "Fishing": 356, "Skinning": 393, "Jewelcrafting": 755, "Inscription": 773, "Archaeology": 794, "Soul Cyphering": 2777, "Abominable Stitching": 2787, "Ascension Crafting": 2791}
